@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+  =>  Template Name    : Hairnic - Single Product Website Template
+
+  =>  Template Link    : https://htmlcodex.com/single-product-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+=======
+  =>  Template Name    : Hairnic - Single Product Website Template
+
+  =>  Template Link    : https://htmlcodex.com/single-product-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+>>>>>>> ddd05455b973e9fa4f115382962bd94eb3e15c47
+  =>  Author Website   : https://htmlcodex.com
